@@ -28,7 +28,7 @@ Clean Connection Management: Ensures the database connection is always closed pr
 Requirements
 Python 3.x
 
-A SQLite database file. The script is pre-configured to look for a database at ./db/hotelsystem.db. You can change the DATABASE_NAME variable in the script to point to your own database file.
+A SQLite database file. The script is pre-configured to look for a database at ./order.db. You can change the DATABASE_NAME variable in the script to point to your own database file.
 
 How to Use
 Clone or download the repository.
